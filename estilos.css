@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: hsl(0, 0%, 100%);
     text-align: center;
 }
 .principal{
@@ -15,15 +15,14 @@
 }
 body{                                                                                                                                                                                 
     
-    background-image: url(pexel.webp);
+    background-image: url(pexel.webp)
     
 }
 .titulo{
 font-size: 60px;
-color: black;
+color: hsl(0, 0%, 100%);
 text-align: center;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-
+font-family: 'Times New Roman', Times, serif;
 
 
 }
@@ -107,9 +106,9 @@ flex-direction: center;
 .ImG{
 
 
-    Height: 350pX;
-    width: 600px;
-    background-image: url(K.jpeg);
+    Height: 300pX;
+    width: 800px;
+    background-image: url(escuchar-otros.jpg);
     float: center;
     display: flex;
 flex-direction: center;
@@ -121,8 +120,8 @@ flex-direction: center;
 
 
     Height: 750px;
-    width: 1000px;
-    background-image: url(Grafico\ Mapa\ Conceptual\ Esquema\ Original\ Multicolor.png);
+    width: 1050px;
+    background-image: url(Gráfico\ de\ Mapa\ Conceptual\ o\ Mental\ Investigación\ Proyecto\ Doodle\ A\ Mano\ Multicolor.png);
     display: flex;
 flex-direction: center;
 
